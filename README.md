@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems 
 - 🌱 I’m currently learning Embedded Linux
 - 💞️ I’m looking to collaborate on Firmware project
-- 📫 How to reach me: Email:denislav.trifonov.1995@gmail.com
+- 📫 How to reach me: Email:denislavvtrifonovgmail.com
                       LinkedIn: https://www.linkedin.com/in/denislav-trifonov-47aaa1ba/
 
 <!---

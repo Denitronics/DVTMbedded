@@ -2,7 +2,8 @@
 - 👀 I’m interested in Embedded Systems 
 - 🌱 I’m currently learning Embedded Linux
 - 💞️ I’m looking to collaborate on Firmware project
-- 📫 How to reach me: denislav.trifonov.1995@gmail.com / https://www.linkedin.com/in/denislav-trifonov-47aaa1ba/
+- 📫 How to reach me: Email:denislav.trifonov.1995@gmail.com
+                      LinkedIn: https://www.linkedin.com/in/denislav-trifonov-47aaa1ba/
 
 <!---
 DVTMbedded/DVTMbedded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

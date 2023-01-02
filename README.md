@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DVTMbedded
 - 👀 I’m interested in Embedded Systems 
-- 🌱 I’m currently learning Embedded Linux
 - 💞️ I’m looking to collaborate on Firmware project
 - 📫 How to reach me: Email: trifonovvdenislav@gmail.com
                       LinkedIn: https://www.linkedin.com/in/denislav-trifonov-47aaa1ba/
